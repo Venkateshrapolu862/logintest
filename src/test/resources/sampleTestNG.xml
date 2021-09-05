@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestingorangeHRM">
+<test name="Regression">
+<groups>		
+   <run>		
+    <include name="login" />		
+   </run>		
+  </groups>	
+<classes>
+<class name="FlipkartHomepage.HomepageTitle"/>
+</classes>
+</test>
+</suite>

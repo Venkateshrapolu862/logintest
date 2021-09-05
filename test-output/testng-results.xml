@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5142" started-at="2021-09-05T10:05:03Z" finished-at="2021-09-05T10:05:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5142" started-at="2021-09-05T10:05:03Z" finished-at="2021-09-05T10:05:08Z">
+      <class name="TravelTestNG.Workbook">
+        <test-method status="PASS" signature="workBook()[pri:0, instance:TravelTestNG.Workbook@5bc79255]" name="workBook" duration-ms="5006" started-at="2021-09-05T10:05:03Z" finished-at="2021-09-05T10:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workBook -->
+      </class> <!-- TravelTestNG.Workbook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
