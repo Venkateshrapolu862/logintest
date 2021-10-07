@@ -33,7 +33,7 @@ public class MyOrangeTest {
 		loginButton.click();
 		WebElement welcometextabcd = driver.findElement(By.id("welcome"));
 		String test = welcometextabcd.getText();
-		assertEquals(test, "Welcome paul");
+		assertEquals(test, "Welcome");
 		
 		
 	}
